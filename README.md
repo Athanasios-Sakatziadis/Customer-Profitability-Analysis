@@ -1,3 +1,5 @@
+<img width="1400" height="738" alt="1_HiwX6vul8c4PBEueq3yBMw" src="https://github.com/user-attachments/assets/fbd2d2cf-f63c-43db-9475-21bca2d443e1" />
+
 # Customer-Profitability-Analysis
 
 RFM Analysis - Case Study - Book : Aslani A, Business Analytics with Management Science Models and Methods, Pearson Education, 2015. https://ptgmedia.pearsoncmg.com/images/9780133760354/samplepages/9780133760354.pdf
@@ -98,6 +100,7 @@ Reference
 
 ## PowerBI
 
+<img width="1957" height="1098" alt="Dashboards" src="https://github.com/user-attachments/assets/90256bdf-6713-450c-a18e-d4bdf7cbb741" />
 
 
 ## The original dataset and case study are based on:

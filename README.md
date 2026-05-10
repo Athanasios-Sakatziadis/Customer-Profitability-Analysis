@@ -12,6 +12,8 @@ This project was originally developed as part of an MSc assignment in Business A
 
 The analysis was completed in Python instead of the originally proposed software environment, with permission from the course instructor, Mr. Georgiou. Permission was also granted to further expand and publicly share the project on GitHub for educational and portfolio purposes.
 
+## Quiz
+
 
 ## Project Objectives
 

@@ -14,6 +14,8 @@ The analysis was completed in Python instead of the originally proposed software
 
 ## Quiz
 
+<img width="796" height="591" alt="Quiz" src="https://github.com/user-attachments/assets/bae23ebc-b9df-41ba-a233-42aecb35f8c9" />
+
 
 ## Project Objectives
 

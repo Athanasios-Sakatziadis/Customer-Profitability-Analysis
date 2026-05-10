@@ -96,6 +96,10 @@ Expected Profit by Monetary Score
 Key business insights and campaign targeting conclusions
 Reference
 
+## PowerBI
+
+
+
 ## The original dataset and case study are based on:
 
 Aslani A, Business Analytics with Management Science Models and Methods, Pearson Education, 2015.

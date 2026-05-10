@@ -4,7 +4,7 @@ RFM Analysis - Case Study - Book : Aslani A, Business Analytics with Management 
 
 This project focuses on customer segmentation and campaign profitability analysis using the RFM (Recency, Frequency, Monetary) methodology. The analysis was performed in Python and visualized in Power BI in order to identify the most valuable customer segments for a future marketing campaign.
 
-#### Academic Context
+## Academic Context
 
 This project was originally developed as part of an MSc assignment in Business Analytics and Data Science at the University of Macedonia.
 
@@ -12,7 +12,7 @@ The analysis was completed in Python instead of the originally proposed software
 
 Και μετά αφήνεις το reference section από κάτω 😄
 
-#### Project Objectives
+## Project Objectives
 
 Perform customer segmentation using RFM analysis
 Evaluate customer profitability through Expected Profit calculations
@@ -26,14 +26,14 @@ Power BI
 Jupyter Notebook
 Dataset Information
 
-#### The dataset contains customer transaction information, including:
+## The dataset contains customer transaction information, including:
 
 Passport Number (Customer ID)
 Date of Visit
 Sales Amount
 Transaction Number
 
-#### The original dataset was aggregated at customer level in order to calculate:
+## The original dataset was aggregated at customer level in order to calculate:
 
 Recency
 Frequency
@@ -41,13 +41,13 @@ Monetary value
 Methodology
 
 
-#### 1. Data Preparation
+## 1. Data Preparation
 
 Data import and inspection
 Missing value checks
 Datatype validation
 
-#### 2. RFM Analysis
+## 2. RFM Analysis
 
 Customers were segmented into score classes based on:
 
@@ -57,7 +57,7 @@ Monetary score
 
 The score thresholds were defined according to the assignment requirements.
 
-#### 3. Expected Profit Calculation
+## 3. Expected Profit Calculation
 
 Expected profit was calculated using the following formula:
 
@@ -69,7 +69,7 @@ where:
 5.75 represents the average campaign incentive cost per customer
 
 
-#### 4. Profitability Evaluation
+## 4. Profitability Evaluation
 
 Customers were grouped by:
 
@@ -89,7 +89,7 @@ Recently active customers appear to be the most promising targets for future mar
 Low Monetary score customers generate minimal or even negative expected profitability.
 Dashboard
 
-#### The project also includes a Power BI dashboard visualizing:
+## The project also includes a Power BI dashboard visualizing:
 
 Expected Profit by Recency Score
 Expected Profit by Frequency Score
@@ -97,7 +97,7 @@ Expected Profit by Monetary Score
 Key business insights and campaign targeting conclusions
 Reference
 
-#### The original dataset and case study are based on:
+## The original dataset and case study are based on:
 
 Aslani A, Business Analytics with Management Science Models and Methods, Pearson Education, 2015.
 
